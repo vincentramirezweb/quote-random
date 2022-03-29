@@ -14,7 +14,7 @@ Challenge: Create a quote generator app with a random order and use React to han
       Demo
     </a>
     <span> | </span>
-    <a href="{https://{https://github.com/vincentramirezweb/quote-random.git}">
+    <a href="https://{github.com/vincentramirezweb}">
       Solution
     </a>
   </h3>
