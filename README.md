@@ -10,7 +10,7 @@ Challenge: Create a quote generator app with a random order and use React to han
 
 <div align="center">
   <h3>
-    <a href="https://{quote-random-academlo.netlify.app}">
+    <a href="https://quote-random-academlo.netlify.app" >
       Demo
     </a>
     <span> | </span>
