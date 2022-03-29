@@ -14,7 +14,7 @@ Challenge: Create a quote generator app with a random order and use React to han
       Demo
     </a>
     <span> | </span>
-    <a href="https://{github.com/vincentramirezweb}">
+    <a href="https://github.com/vincentramirezweb">
       Solution
     </a>
   </h3>
@@ -58,5 +58,5 @@ All the advice and tips I received in the Academlo class from Professor [Sh3yk0]
 
 ## Contact
 
--   Website [https://vincentramirez.com](https://{vincent-ramirez-portafolio.netlify.app})
--   GitHub [@vincentramirezweb](https://{github.com/vincentramirezweb})
+-   Website [https://vincentramirez.com](https://vincent-ramirez-portafolio.netlify.app)
+-   GitHub [@vincentramirezweb](https://github.com/vincentramirezweb)
