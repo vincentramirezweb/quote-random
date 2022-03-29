@@ -6,7 +6,7 @@ Challenge: Create a quote generator app with a random order and use React to han
 
 
 
-<h1 align="center">{Quote Random Academlo}</h1>
+<h1 align="center">Quote Random Academlo</h1>
 
 <div align="center">
   <h3>
